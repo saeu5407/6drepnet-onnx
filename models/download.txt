@@ -1,3 +1,7 @@
+# 6DRepNet ONNX
+sixdrepnet.onnx
+https://drive.google.com/file/d/1mIle66NaI_Iho3Cbyvl-wgyVvMPeJwo4/view?usp=sharing
+
 # Pre-trained Backbone
 6DRepNet_300W_LP_BIWI.pth
 https://drive.google.com/drive/folders/1V1pCV0BEW3mD-B9MogGrz_P91UhTtuE_

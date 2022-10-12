@@ -30,7 +30,7 @@ ONNX 컨버팅 또는 DEMO 실행을 위해 pre-trained model을 다운로드해
 <br>
 **RepVGG-B1g2-train.pth** `pre_train 6drepnet` [다운로드 링크](https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq)
 <br>
-**sixdrepnet.onnx** `onnx 6drepnet` [다운로드 링크]()
+**sixdrepnet.onnx** `onnx 6drepnet` [다운로드 링크](https://drive.google.com/file/d/1mIle66NaI_Iho3Cbyvl-wgyVvMPeJwo4/view?usp=sharing)
 <br>
 
 ## Convert ONNX
