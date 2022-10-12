@@ -1,0 +1,7 @@
+# Pre-trained Backbone
+6DRepNet_300W_LP_BIWI.pth
+https://drive.google.com/drive/folders/1V1pCV0BEW3mD-B9MogGrz_P91UhTtuE_
+
+# Pre-trained 6DRepNet
+RepVGG-B1g2-train.pth
+https://drive.google.com/drive/folders/1Avome4KvNp0Lqh2QwhXO6L5URQjzCjUq
